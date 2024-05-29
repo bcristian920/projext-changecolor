@@ -49,3 +49,9 @@ background-color: #4adccf ;
     border: 2px solid #aaa;
     cursor: pointer;
 }
+#lorem{
+
+    font-family: "Sacramento", cursive;
+    font-size: 50px;
+    color: #0044ff;
+}
